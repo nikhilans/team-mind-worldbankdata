@@ -1,4 +1,4 @@
-<h1>Gloabl Education Analysis</h1>
+<h1>World Bank Global Education Analysis</h1>
 
 ![global_education](https://user-images.githubusercontent.com/43104489/121780711-326b0a80-cbbf-11eb-9bd6-b5e182331d69.png)
 
