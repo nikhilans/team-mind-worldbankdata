@@ -59,6 +59,6 @@ contains indicators and data sources for certain countries</p>
 <h2 id="Contributors"> :scroll: Contributors</h2>
 
 Mukund Jha </br> </br>
-Nikhila N S </br> [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/AlmaBetter-School/) </br> </br>
+Nikhila N S </br> [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilans/global-education-analysis) </br> </br>
 Sriram Sureshkumar </br> [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sriram1717/World-Bank-Global-Education-Analysis.git) </br> </br>
 Yogesh Patil </br> [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yogesh-8998/World-Bank-Global-Education-Analysis)
