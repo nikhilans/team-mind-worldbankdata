@@ -43,7 +43,8 @@ contains indicators and data sources for certain countries</p>
 
 <h2> :clipboard: Objectives</h2>
 
-<p>1. Correlation between Expenditure on education as % of total government expenditure (%) and youth/adult literacy rate for countries with similar GDP per capita PPP.</p>
+<p>1. Correlation between youth/adult literacy rate for countries with similar GDP per capita PPP. </br>
+Expenditure on education as % of total government expenditure (%) across different countries. </p>
 
 <p>2. How does India compare to it's neighboring countries with respect to Gross Enrolment Ratio.</p>
 
